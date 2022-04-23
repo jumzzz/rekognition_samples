@@ -1,0 +1,6 @@
+{
+    "S3Object" : {
+        "Bucket": "rekognition-input-images", 
+        "Name" : "input_data/detect_text.jpg"    
+    }
+}

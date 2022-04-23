@@ -1,0 +1,345 @@
+{
+    "Labels": [
+        {
+            "Name": "Lion",
+            "Confidence": 99.99991607666016,
+            "Instances": [
+                {
+                    "BoundingBox": {
+                        "Width": 0.29719120264053345,
+                        "Height": 0.2814905345439911,
+                        "Left": 0.35592007637023926,
+                        "Top": 0.03864087536931038
+                    },
+                    "Confidence": 99.99991607666016
+                }
+            ],
+            "Parents": [
+                {
+                    "Name": "Wildlife"
+                },
+                {
+                    "Name": "Mammal"
+                },
+                {
+                    "Name": "Animal"
+                }
+            ]
+        },
+        {
+            "Name": "Animal",
+            "Confidence": 99.99991607666016,
+            "Instances": [],
+            "Parents": []
+        },
+        {
+            "Name": "Wildlife",
+            "Confidence": 99.99991607666016,
+            "Instances": [],
+            "Parents": [
+                {
+                    "Name": "Animal"
+                }
+            ]
+        },
+        {
+            "Name": "Mammal",
+            "Confidence": 99.99991607666016,
+            "Instances": [],
+            "Parents": [
+                {
+                    "Name": "Animal"
+                }
+            ]
+        },
+        {
+            "Name": "Elephant",
+            "Confidence": 96.96939086914062,
+            "Instances": [
+                {
+                    "BoundingBox": {
+                        "Width": 0.12385109066963196,
+                        "Height": 0.22368428111076355,
+                        "Left": 0.7992645502090454,
+                        "Top": 0.7150673270225525
+                    },
+                    "Confidence": 96.96939086914062
+                },
+                {
+                    "BoundingBox": {
+                        "Width": 0.07178184390068054,
+                        "Height": 0.12310902774333954,
+                        "Left": 0.908843994140625,
+                        "Top": 0.7799747586250305
+                    },
+                    "Confidence": 96.74420928955078
+                },
+                {
+                    "BoundingBox": {
+                        "Width": 0.08110726624727249,
+                        "Height": 0.14303790032863617,
+                        "Left": 0.7450365424156189,
+                        "Top": 0.7896244525909424
+                    },
+                    "Confidence": 90.48155975341797
+                },
+                {
+                    "BoundingBox": {
+                        "Width": 0.1160048395395279,
+                        "Height": 0.2387007772922516,
+                        "Left": 0.4448073208332062,
+                        "Top": 0.38694843649864197
+                    },
+                    "Confidence": 89.45899200439453
+                },
+                {
+                    "BoundingBox": {
+                        "Width": 0.0722091943025589,
+                        "Height": 0.14983469247817993,
+                        "Left": 0.681512713432312,
+                        "Top": 0.7675848007202148
+                    },
+                    "Confidence": 88.85411071777344
+                },
+                {
+                    "BoundingBox": {
+                        "Width": 0.0460190623998642,
+                        "Height": 0.10968867689371109,
+                        "Left": 0.8944799900054932,
+                        "Top": 0.7882202863693237
+                    },
+                    "Confidence": 57.3890380859375
+                }
+            ],
+            "Parents": [
+                {
+                    "Name": "Wildlife"
+                },
+                {
+                    "Name": "Mammal"
+                },
+                {
+                    "Name": "Animal"
+                }
+            ]
+        },
+        {
+            "Name": "Giraffe",
+            "Confidence": 95.12471771240234,
+            "Instances": [
+                {
+                    "BoundingBox": {
+                        "Width": 0.11453793197870255,
+                        "Height": 0.2731388509273529,
+                        "Left": 0.7652336955070496,
+                        "Top": 0.36742347478866577
+                    },
+                    "Confidence": 95.12471771240234
+                },
+                {
+                    "BoundingBox": {
+                        "Width": 0.10171155631542206,
+                        "Height": 0.2777363955974579,
+                        "Left": 0.6980448961257935,
+                        "Top": 0.3713046610355377
+                    },
+                    "Confidence": 94.29145812988281
+                }
+            ],
+            "Parents": [
+                {
+                    "Name": "Wildlife"
+                },
+                {
+                    "Name": "Mammal"
+                },
+                {
+                    "Name": "Animal"
+                }
+            ]
+        },
+        {
+            "Name": "Dog",
+            "Confidence": 85.81649017333984,
+            "Instances": [
+                {
+                    "BoundingBox": {
+                        "Width": 0.22313788533210754,
+                        "Height": 0.29176414012908936,
+                        "Left": 0.7038805484771729,
+                        "Top": 0.031939852982759476
+                    },
+                    "Confidence": 85.81649017333984
+                },
+                {
+                    "BoundingBox": {
+                        "Width": 0.13734348118305206,
+                        "Height": 0.23777751624584198,
+                        "Left": 0.07273899018764496,
+                        "Top": 0.7127262353897095
+                    },
+                    "Confidence": 78.23368072509766
+                }
+            ],
+            "Parents": [
+                {
+                    "Name": "Pet"
+                },
+                {
+                    "Name": "Canine"
+                },
+                {
+                    "Name": "Animal"
+                },
+                {
+                    "Name": "Mammal"
+                }
+            ]
+        },
+        {
+            "Name": "Canine",
+            "Confidence": 85.81649017333984,
+            "Instances": [],
+            "Parents": [
+                {
+                    "Name": "Mammal"
+                },
+                {
+                    "Name": "Animal"
+                }
+            ]
+        },
+        {
+            "Name": "Pet",
+            "Confidence": 85.81649017333984,
+            "Instances": [],
+            "Parents": [
+                {
+                    "Name": "Animal"
+                }
+            ]
+        },
+        {
+            "Name": "Sheep",
+            "Confidence": 82.6966781616211,
+            "Instances": [
+                {
+                    "BoundingBox": {
+                        "Width": 0.28667885065078735,
+                        "Height": 0.2653484642505646,
+                        "Left": 0.037155646830797195,
+                        "Top": 0.06304660439491272
+                    },
+                    "Confidence": 82.6966781616211
+                }
+            ],
+            "Parents": [
+                {
+                    "Name": "Mammal"
+                },
+                {
+                    "Name": "Animal"
+                }
+            ]
+        },
+        {
+            "Name": "Rhino",
+            "Confidence": 77.0577621459961,
+            "Instances": [],
+            "Parents": [
+                {
+                    "Name": "Wildlife"
+                },
+                {
+                    "Name": "Mammal"
+                },
+                {
+                    "Name": "Animal"
+                }
+            ]
+        },
+        {
+            "Name": "Collage",
+            "Confidence": 76.85125732421875,
+            "Instances": [],
+            "Parents": [
+                {
+                    "Name": "Poster"
+                },
+                {
+                    "Name": "Advertisement"
+                }
+            ]
+        },
+        {
+            "Name": "Poster",
+            "Confidence": 76.85125732421875,
+            "Instances": [],
+            "Parents": [
+                {
+                    "Name": "Advertisement"
+                }
+            ]
+        },
+        {
+            "Name": "Advertisement",
+            "Confidence": 76.85125732421875,
+            "Instances": [],
+            "Parents": []
+        },
+        {
+            "Name": "Antelope",
+            "Confidence": 74.96971130371094,
+            "Instances": [
+                {
+                    "BoundingBox": {
+                        "Width": 0.13581492006778717,
+                        "Height": 0.24060848355293274,
+                        "Left": 0.07389918714761734,
+                        "Top": 0.7075008153915405
+                    },
+                    "Confidence": 74.96971130371094
+                }
+            ],
+            "Parents": [
+                {
+                    "Name": "Wildlife"
+                },
+                {
+                    "Name": "Mammal"
+                },
+                {
+                    "Name": "Animal"
+                }
+            ]
+        },
+        {
+            "Name": "Zebra",
+            "Confidence": 55.20139694213867,
+            "Instances": [],
+            "Parents": [
+                {
+                    "Name": "Wildlife"
+                },
+                {
+                    "Name": "Mammal"
+                },
+                {
+                    "Name": "Animal"
+                }
+            ]
+        }
+    ],
+    "LabelModelVersion": "2.0",
+    "ResponseMetadata": {
+        "RequestId": "0b8a88af-55b1-49a7-8a4a-aeb36c543fd3",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "x-amzn-requestid": "0b8a88af-55b1-49a7-8a4a-aeb36c543fd3",
+            "content-type": "application/x-amz-json-1.1",
+            "content-length": "3891",
+            "date": "Sat, 23 Apr 2022 10:28:58 GMT"
+        },
+        "RetryAttempts": 0
+    }
+}

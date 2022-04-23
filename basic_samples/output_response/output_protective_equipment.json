@@ -1,0 +1,353 @@
+{
+    "ProtectiveEquipmentModelVersion": "1.0",
+    "Persons": [
+        {
+            "BodyParts": [
+                {
+                    "Name": "FACE",
+                    "Confidence": 98.87088012695312,
+                    "EquipmentDetections": [
+                        {
+                            "BoundingBox": {
+                                "Width": 0.05365908518433571,
+                                "Height": 0.05665690079331398,
+                                "Left": 0.2737659513950348,
+                                "Top": 0.18385256826877594
+                            },
+                            "Confidence": 98.16676330566406,
+                            "Type": "FACE_COVER",
+                            "CoversBodyPart": {
+                                "Confidence": 99.7043228149414,
+                                "Value": true
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "LEFT_HAND",
+                    "Confidence": 88.7783432006836,
+                    "EquipmentDetections": [
+                        {
+                            "BoundingBox": {
+                                "Width": 0.039226047694683075,
+                                "Height": 0.0746980607509613,
+                                "Left": 0.21589858829975128,
+                                "Top": 0.5454752445220947
+                            },
+                            "Confidence": 98.5208740234375,
+                            "Type": "HAND_COVER",
+                            "CoversBodyPart": {
+                                "Confidence": 93.20555877685547,
+                                "Value": true
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "RIGHT_HAND",
+                    "Confidence": 94.4425277709961,
+                    "EquipmentDetections": [
+                        {
+                            "BoundingBox": {
+                                "Width": 0.0285468902438879,
+                                "Height": 0.08951457589864731,
+                                "Left": 0.3686242997646332,
+                                "Top": 0.5074594020843506
+                            },
+                            "Confidence": 99.62728118896484,
+                            "Type": "HAND_COVER",
+                            "CoversBodyPart": {
+                                "Confidence": 97.35472869873047,
+                                "Value": true
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "HEAD",
+                    "Confidence": 96.47225952148438,
+                    "EquipmentDetections": []
+                }
+            ],
+            "BoundingBox": {
+                "Width": 0.19202278554439545,
+                "Height": 0.7564102411270142,
+                "Left": 0.20797720551490784,
+                "Top": 0.11880341917276382
+            },
+            "Confidence": 99.9681396484375,
+            "Id": 0
+        },
+        {
+            "BodyParts": [
+                {
+                    "Name": "FACE",
+                    "Confidence": 97.94420623779297,
+                    "EquipmentDetections": [
+                        {
+                            "BoundingBox": {
+                                "Width": 0.05414184555411339,
+                                "Height": 0.057243987917900085,
+                                "Left": 0.13750529289245605,
+                                "Top": 0.18698962032794952
+                            },
+                            "Confidence": 99.21154022216797,
+                            "Type": "FACE_COVER",
+                            "CoversBodyPart": {
+                                "Confidence": 99.51895904541016,
+                                "Value": true
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "RIGHT_HAND",
+                    "Confidence": 89.25674438476562,
+                    "EquipmentDetections": [
+                        {
+                            "BoundingBox": {
+                                "Width": 0.04399298503994942,
+                                "Height": 0.08958888798952103,
+                                "Left": 0.07091961801052094,
+                                "Top": 0.49308958649635315
+                            },
+                            "Confidence": 99.85595703125,
+                            "Type": "HAND_COVER",
+                            "CoversBodyPart": {
+                                "Confidence": 99.67205810546875,
+                                "Value": true
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "HEAD",
+                    "Confidence": 97.31046295166016,
+                    "EquipmentDetections": []
+                }
+            ],
+            "BoundingBox": {
+                "Width": 0.20170940458774567,
+                "Height": 0.7153846025466919,
+                "Left": 0.052421651780605316,
+                "Top": 0.12136752158403397
+            },
+            "Confidence": 99.83804321289062,
+            "Id": 1
+        },
+        {
+            "BodyParts": [
+                {
+                    "Name": "FACE",
+                    "Confidence": 96.51314544677734,
+                    "EquipmentDetections": [
+                        {
+                            "BoundingBox": {
+                                "Width": 0.06346864998340607,
+                                "Height": 0.08104650676250458,
+                                "Left": 0.7628182172775269,
+                                "Top": 0.16186638176441193
+                            },
+                            "Confidence": 91.73711395263672,
+                            "Type": "FACE_COVER",
+                            "CoversBodyPart": {
+                                "Confidence": 98.6831283569336,
+                                "Value": true
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "LEFT_HAND",
+                    "Confidence": 95.5988998413086,
+                    "EquipmentDetections": [
+                        {
+                            "BoundingBox": {
+                                "Width": 0.03705551102757454,
+                                "Height": 0.05473046004772186,
+                                "Left": 0.8163739442825317,
+                                "Top": 0.4339849054813385
+                            },
+                            "Confidence": 98.87225341796875,
+                            "Type": "HAND_COVER",
+                            "CoversBodyPart": {
+                                "Confidence": 98.1151123046875,
+                                "Value": true
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "HEAD",
+                    "Confidence": 99.79601287841797,
+                    "EquipmentDetections": []
+                }
+            ],
+            "BoundingBox": {
+                "Width": 0.1846153885126114,
+                "Height": 0.6726495623588562,
+                "Left": 0.68660968542099,
+                "Top": 0.11452991515398026
+            },
+            "Confidence": 99.96831512451172,
+            "Id": 2
+        },
+        {
+            "BodyParts": [
+                {
+                    "Name": "FACE",
+                    "Confidence": 73.6234359741211,
+                    "EquipmentDetections": [
+                        {
+                            "BoundingBox": {
+                                "Width": 0.0440177358686924,
+                                "Height": 0.05066167563199997,
+                                "Left": 0.4359642565250397,
+                                "Top": 0.17090672254562378
+                            },
+                            "Confidence": 99.89947509765625,
+                            "Type": "FACE_COVER",
+                            "CoversBodyPart": {
+                                "Confidence": 96.04014587402344,
+                                "Value": true
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "RIGHT_HAND",
+                    "Confidence": 87.66690826416016,
+                    "EquipmentDetections": [
+                        {
+                            "BoundingBox": {
+                                "Width": 0.050606317818164825,
+                                "Height": 0.04271417483687401,
+                                "Left": 0.4187755286693573,
+                                "Top": 0.36730536818504333
+                            },
+                            "Confidence": 89.4001235961914,
+                            "Type": "HAND_COVER",
+                            "CoversBodyPart": {
+                                "Confidence": 99.90271759033203,
+                                "Value": true
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "HEAD",
+                    "Confidence": 99.47552490234375,
+                    "EquipmentDetections": []
+                }
+            ],
+            "BoundingBox": {
+                "Width": 0.16809116303920746,
+                "Height": 0.6897435784339905,
+                "Left": 0.37264958024024963,
+                "Top": 0.11367521435022354
+            },
+            "Confidence": 99.77461242675781,
+            "Id": 3
+        },
+        {
+            "BodyParts": [
+                {
+                    "Name": "RIGHT_HAND",
+                    "Confidence": 95.08773803710938,
+                    "EquipmentDetections": [
+                        {
+                            "BoundingBox": {
+                                "Width": 0.03665514290332794,
+                                "Height": 0.05649257451295853,
+                                "Left": 0.8166822791099548,
+                                "Top": 0.4323902428150177
+                            },
+                            "Confidence": 96.08698272705078,
+                            "Type": "HAND_COVER",
+                            "CoversBodyPart": {
+                                "Confidence": 99.1492691040039,
+                                "Value": false
+                            }
+                        }
+                    ]
+                }
+            ],
+            "BoundingBox": {
+                "Width": 0.17150996625423431,
+                "Height": 0.6350427269935608,
+                "Left": 0.8267806172370911,
+                "Top": 0.16153846681118011
+            },
+            "Confidence": 99.85802459716797,
+            "Id": 4
+        },
+        {
+            "BodyParts": [
+                {
+                    "Name": "FACE",
+                    "Confidence": 98.33839416503906,
+                    "EquipmentDetections": [
+                        {
+                            "BoundingBox": {
+                                "Width": 0.04345186799764633,
+                                "Height": 0.04645363613963127,
+                                "Left": 0.6207582950592041,
+                                "Top": 0.24423442780971527
+                            },
+                            "Confidence": 99.0777359008789,
+                            "Type": "FACE_COVER",
+                            "CoversBodyPart": {
+                                "Confidence": 99.6756591796875,
+                                "Value": true
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "RIGHT_HAND",
+                    "Confidence": 91.28803253173828,
+                    "EquipmentDetections": [
+                        {
+                            "BoundingBox": {
+                                "Width": 0.024398937821388245,
+                                "Height": 0.05473776161670685,
+                                "Left": 0.5864826440811157,
+                                "Top": 0.39926931262016296
+                            },
+                            "Confidence": 96.8605728149414,
+                            "Type": "HAND_COVER",
+                            "CoversBodyPart": {
+                                "Confidence": 99.46427917480469,
+                                "Value": true
+                            }
+                        }
+                    ]
+                },
+                {
+                    "Name": "HEAD",
+                    "Confidence": 99.8404312133789,
+                    "EquipmentDetections": []
+                }
+            ],
+            "BoundingBox": {
+                "Width": 0.18290598690509796,
+                "Height": 0.5752136707305908,
+                "Left": 0.5470085740089417,
+                "Top": 0.19401709735393524
+            },
+            "Confidence": 99.79967498779297,
+            "Id": 5
+        }
+    ],
+    "ResponseMetadata": {
+        "RequestId": "359472aa-8be5-4e0d-be63-b8ffe8bfb6ce",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "x-amzn-requestid": "359472aa-8be5-4e0d-be63-b8ffe8bfb6ce",
+            "content-type": "application/x-amz-json-1.1",
+            "content-length": "5249",
+            "date": "Sat, 23 Apr 2022 10:30:51 GMT"
+        },
+        "RetryAttempts": 0
+    }
+}
