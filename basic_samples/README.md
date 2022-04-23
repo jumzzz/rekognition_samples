@@ -1,7 +1,7 @@
 # Basic Samples for Detections in Rekognition
 
 ## Overview
-- Implements Basic Detections of **labels**, **faces**, **protective equipments**, and **texts** using `boto3`
+- Implements Basic Detections of **labels**, **faces**, **protective equipments**, and **texts** using **AWS Rekognition** and `boto3`
 - Main implementation are implemented on `detection.py`
 
 ## Steps on Running
